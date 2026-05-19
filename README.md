@@ -6,7 +6,7 @@ A modern real-time industrial monitoring dashboard built for ONGC operations. Th
 
 #  Live Demo
 
-🔗 https://ongc-deshboard.vercel.app
+ [DashBoard](https://ongc-deshboard.vercel.app)
 
 ---
 
